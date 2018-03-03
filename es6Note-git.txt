@@ -1,0 +1,6 @@
+echo "# es6Note" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/linyenjun/es6Note.git
+git push -u origin master
